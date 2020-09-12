@@ -1,1 +1,2 @@
-print('Hello from Mauricio Alarcón!')
+Hi='Hello from Mauricio Alarcón! '
+print('Hi')
