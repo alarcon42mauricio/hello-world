@@ -24,5 +24,5 @@ pen.forward(225)
 pen.right(90)
 pen.forward(135)
 
-#Fish it
+#Finish it
 turtle.done()
